@@ -1,0 +1,17 @@
+streamlit
+matplotlib
+pandas
+numpy
+ta
+tweepy
+transformers
+torch
+gspread
+google-auth
+requests
+scikit-learn
+xgboost
+lightgbm
+catboost
+plotly
+tensorflow-cpu==2.12.0
