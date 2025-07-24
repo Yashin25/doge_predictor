@@ -1,0 +1,16 @@
+streamlit
+matplotlib
+pandas
+numpy
+ta
+tweepy
+transformers
+torch
+gspread
+google-auth
+requests
+scikit-learn
+xgboost
+lightgbm
+catboost
+plotly
