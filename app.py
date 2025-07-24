@@ -395,3 +395,4 @@ if df_btc.empty:
 if 'close' not in df_btc.columns:
     st.error("Brak kolumny 'close' w df_btc! Kolumny to: " + str(df_btc.columns))
     st.stop()
+df['btc_close'] = df_btc['close']
