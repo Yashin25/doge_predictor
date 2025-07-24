@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "predykcje",
+  "private_key_id": "769f705f09f5c320f6a02d3b859c32c2624f52ac",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC+T4Sm1hFDmfx8\ncf2F/BRudTSzhcejEwawhou1r1lkqq/bY3XZfyLVbZy4LywXH/BvBiMLFn8pSQoq\n/gLx5CgW1YOa9Llzq2/y2T3ZjVYOTyKjfFd2MI0elMXH+vXygEbTKvniViyBNx8c\noRUSSnaldl9iGOl7ZE/NUqC3AYefaDnWUmtjuDMk+kqhvdD+LptbfltpEZQgvg4Z\nQt/gOyThN3lQJw0VV1WUIs5n2SUv74k9p3WEj9F2Koj0XAFohQ6ATzglkHv6d3jw\nyt/1dp4Jd23NQntimpfjxv30S1CWU8D0kakPY/w8hxg/dYDfbwPNmlCoQp0ZaFZ4\ndx7gXkA3AgMBAAECggEAAoQlolkROF4YVwLg0b0v/ffhvv/lUFQnkfztavULDwgs\ntA9gFwSVztGYsVy6TgH3mVgw7WwaOU8EaeYa3tzf5NFk4I8cxpk9LS5PIYm7WgwU\nzqmNtHvW2dEovkikqNSmWxNl42a1Ru4WJLhCgY/neq+SekcPCzkbzwCpLFJCW0qt\nFpaXufSwee1vvYfrNkQ3YVDxECzUvUI+5MRDtPWOrXdBvS0NKMAlcRZoC/sYUdLD\nfoLTBqZYf0BKNpAypb+WaFADQn6jQDi9tE6/B2n5SJu5dyuve27L2rtFEsxEPTp2\npTBBDsiJpxp4IvcGR6UfaekNZiE+//CJ9lV01oxPZQKBgQD/0fbn6I16C5mILyJq\ng17knHzIOD0shCAeIQB3Q0yQ+XypK2NpAE2PbZALyyQj0dLZd09NCBiuJSCpa1ox\nY0ODC443WVDgfCv6bRM74EFsWjJehQj6yHffLqQ0O12/Nl99iYkumuN4R4swdsA2\nh4iABLT5S4JJQ2WTwlEjZ4IYBQKBgQC+ccPb85WLkQ65mBTBRfLT/DcV45pgMwBG\nPCoK5FnIVtXJEqgQ3PY305leMgLD8KBcFW225YhgvWF7bIX12lj8fe+pWFFouA5c\nFMswOPSU7cDT7ewzA4akwc2cWiN5l+Fkdm/1My5m0HX/4cXpF9GFZmBNHaG2A/DE\nhZKBmefYCwKBgDnkWxrKLtISs/D0sbYm+p+Dpl1tFLLxR49p6oAS083vF7302q9V\naTfvFG0G0KvmfO/Hp0OIdIVcU5Ljf2qzywBp6gouhTX4A7/NVU/0hPmvQ7zOIGUY\nXsA7/t7vHFz8QgnXyRqp5JZAoogaJ49vhn1qE0ZjRx2rSd5xWAlKEE+9AoGBAJzR\n9WQTaptosWVmtACK5vBkib++kgqRNLKhLEWXz87GonhWoopwSVejKHGGYPyUEpiB\nFL08uVZf2/vUW2Mdj5Uq5sTd8vt2RGzSupZU8CIKvXRGQO+pAaB97h/HodqolHMz\ni/GvWZBULDau5VeRw3hD2xzlP5owGHzbOM77uwwNAoGBAMwQ0tFUIQKJY8rRIxug\n9p4BoZ++yvchws95yRRo2ihEh3tPOQlA/w04cHNxNsBOp4lZjsrtCCWBUuBP9QkZ\nv/azSfdK5ZqZOSLAVdirtXZMKVk5rhZLqz0GlsuhWnwUW0Ya+6c/Wzr+B8jH4+kb\nqwlWSdI2YMsor5d0OcxK6SEp\n-----END PRIVATE KEY-----\n",
+  "client_email": "predykcje@predykcje.iam.gserviceaccount.com",
+  "client_id": "104829885110229430345",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/predykcje%40predykcje.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
